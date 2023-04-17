@@ -67,11 +67,15 @@ footer a {
     }
     
     .price {
-        font-size: 16px;
+        font-size: 20px;
     }
   
-    /* main {
-        display: none;
-         */
+    main {
+        margin-top: 60px;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 90px;
     }
 }
